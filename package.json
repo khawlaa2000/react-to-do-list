@@ -1,6 +1,6 @@
 {
   "name": "to-do-list",
-  "version": "0.1.0",
+  "version": "14.17.3",
   "private": true,
   "dependencies": {
     "material-ui": "^0.19.4",
@@ -17,5 +17,17 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "This is a simple To-Do list app done with React. All tasks are saved into browser's local storage only. The app development was inspired by the first brazilian live coding of the [React Nanodegree Program](https://udacity.com/course/react-nanodegree--nd019).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khawlaa2000/react-to-do-list.git"
+  },
+  "author": "khawla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khawlaa2000/react-to-do-list/issues"
+  },
+  "homepage": "https://github.com/khawlaa2000/react-to-do-list#readme"
 }
